@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh462255&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh462255" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** 
 
 - 👨‍💻 All of my projects are available at [https://portfolio-utkarsh462255.vercel.app/](https://portfolio-utkarsh462255.vercel.app/)
 
